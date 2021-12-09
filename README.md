@@ -1,11 +1,11 @@
 ## Olá! me chamo Miguel de Oliveira Santos! 👋🙂
 
    
-- 📚 Atualmente estudando: JS, HTML, CSS, GIT, GITHUB, BOOTSTRAP
-- ✍ Interessado em: Python e Scss
+- 📚 Atualmente estudando: HTML, CSS, JS, Boostrap,   
+- ✍ Interessado em: Python, Scss e SQL
 <HR> 
    
-### Principais técnologias: 
+### Principais tecnologias: 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
