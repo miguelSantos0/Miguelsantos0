@@ -14,7 +14,7 @@
 </div>
 
  
-    <img align="" alt="Miguel-icon" height="300" width="300" src="https://raw.githubusercontent.com/miguelSantos0/Miguelsantos0/main/download.png">
+    <img align="left" alt="Miguel-icon" height="300" width="300" src="https://raw.githubusercontent.com/miguelSantos0/Miguelsantos0/main/download.png">
 
    
   
