@@ -2,7 +2,7 @@
 <br>
 
    
-- 📚 Atualmente estudando: HTML, CSS, JS, Boostrap,   
+- 📚 Atualmente estudando: HTML, CSS, JS, Boostrap   
 - ✍ Interessado em: Python, Scss e SQL
 <HR> 
  
