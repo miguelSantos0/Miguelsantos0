@@ -1,2 +1,2 @@
-## Oi, Eu sou Miguel Santos! 👋
+## Olá! me chamo Miguel de Oliveira Santos! 👋
 
