@@ -1,4 +1,4 @@
-## Olá! Eu sou o Miguel de Oliveira Santos!! 👋🙂 <img height="50px" style="border-radius: 2rem" align="left" src="https://raw.githubusercontent.com/miguelSantos0/Miguelsantos0/main/download.png"/>
+## Olá! Eu sou o Miguel de Oliveira Santos!! 👋🙂 <img height="30px" style="border-radius: 2rem" align="left" src="https://raw.githubusercontent.com/miguelSantos0/Miguelsantos0/main/download.png"/>
 <br>
 
    
