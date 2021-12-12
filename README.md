@@ -4,8 +4,8 @@
 
 
    
-- 📚 Atualmente estudando: HTML, CSS, JS, Boostrap   
-- ✍ Interessado em: Python, Scss e SQL
+- 📚 Atualmente estudando: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL SERVER   
+- ✍ Interessado em: NODEJS, REACTJS, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SCSS, SASS
 <HR> 
  
    <br>
