@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Miguel de Oliveira Santos!! 👋🙂 <img height="150px" style="border-radius: 2rem" align="right" src="https://raw.githubusercontent.com/miguelSantos0/Miguelsantos0/main/download.png"/>
+<p>Meu objetivo é ser FullStack.</p>
 <br>
+
 
    
 - 📚 Atualmente estudando: HTML, CSS, JS, Boostrap   
