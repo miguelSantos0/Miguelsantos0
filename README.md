@@ -1,4 +1,4 @@
-## Olá! Eu sou o Miguel de Oliveira Santos!! 👋🙂 <img height="150px" style="border-radius: 2rem" align="right" src="https://raw.githubusercontent.com/miguelSantos0/Miguelsantos0/main/download.png"/>
+## Olá! Eu sou o Miguel de Oliveira Santos!! 👋🙂 
 <p>Meu objetivo é ser FullStack.</p>
 <br>
 
