@@ -1,11 +1,11 @@
-## Olá! Eu sou o Miguel de Oliveira Santos!! 👋🙂 
-<p>Meu objetivo é ser FullStack.</p>
+## Hi! I'm Miguel de Oliveira Santos!! 👋🙂 
+<p>my goal is to be fullstack</p>
 <br>
 
 
    
-- 📚 Atualmente estudando: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL SERVER   
-- ✍ Interessado em: NODEJS, REACTJS, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SCSS, SASS
+- 📚 Currently studying: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL SERVER   
+- ✍ Interested: NODEJS, REACTJS, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SASS
 <HR> 
  
    <br>
