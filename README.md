@@ -2,12 +2,9 @@
 <p>my goal is to be fullstack!</p>
 <br>
 
-
-   
-- 📚 Currently studying: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL SERVER   
-- ✍ Interested: NODEJS, REACTJS, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SASS
+<p>- 📚 Currently learning: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL SERVER</p>   
+<p>- ✍ Interested: NODEJS, REACTJSw, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SASS</p>
 <HR> 
- 
    <br>
    <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsantos1&layout=compact&langs_count=7&theme=ocean_dark"/> 
