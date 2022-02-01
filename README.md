@@ -1,5 +1,5 @@
 ## Hi! I'm Miguel de Oliveira Santos 👋🙂 
-<p>my goal is to be fullstack!</p>
+
 <br>
 
 <p>- 📚 Currently learning: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL SERVER</p>   
