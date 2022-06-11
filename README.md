@@ -1,4 +1,4 @@
-## Hi! I'm Miguel de Oliveira Santos 👋🙂 
+## Hi! I'm Miguel de Oliveira Santos
 
 <br>
 
