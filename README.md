@@ -3,7 +3,7 @@
 <br>
 
 <p> - 📚 Currently learning: HTML, CSS, JS, Boostrap, GIT, GITHUB, SQL, PHP, JAVA, NODEJS</p>   
-<p> - ✍ Interested: REACTJS, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SASS, mySQL</p>
+<p> - ✍ Interested: REACTJS, PYTHON, NEXTJS, ANGULARJS, TAILWIND, SASS</p>
 <HR> 
    <br>
    <div>
