@@ -2,7 +2,7 @@
 
 <br>
 
-<p> > 📚 Currently learning: HTML, CSS, JS, Boostrap, GIT, TERMINAL, REACT, GITHUB, SQL, PHP, JAVA, NODEJS, EJS</p>   
+<p> > 📚 Currently learning: HTML, CSS, JS, Boostrap, GIT, TERMINAL, REACT, GITHUB, SQL, PHP, JAVA, NODEJS, EJS, ELECTRON</p>   
 <p> > ✍ Interested: PYTHON, NEXTJS, ANGULARJS, TAILWIND, SASS</p>
 <HR> 
    <br>
