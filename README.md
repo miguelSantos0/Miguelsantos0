@@ -1,6 +1,6 @@
-- 📚 Currently learning = **HTML, CSS, JS, REACTJS, NODEJS, SQL, ELECTRON, NPM, PHP, JAVA, EJS, BOOTSTRAP**    
-- ✍ Interested = **TAILWIND, SASS, REACT NATIVE**
-- 🛠️Tools = **VSCode, Git, Github, Figma**
+- 📚 Skills: **HTML, CSS, JS, REACTJS, NODEJS, SQL, ELECTRON, NPM, PHP, JAVA, EJS, BOOTSTRAP**    
+- ✍ Interested: **TAILWIND, SASS, REACT NATIVE**
+- 🛠️Tools: **VSCode, Git, Github, Figma**
 <HR> 
    <br>
    <div>
