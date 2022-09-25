@@ -1,4 +1,4 @@
-- 📚 Skills: **HTML, CSS, JS, REACTJS, NODEJS, SQL, ELECTRON, NPM**    
+- 📚 Skills: **HTML, CSS, JS, REACTJS, NODEJS, SQL, NPM**    
 - ✍ Interested: **TAILWIND, SASS, REACT NATIVE, TYPESCRIPT**
 - 🛠️Tools: **VSCode, Git, Github, Figma**
 <HR> 
