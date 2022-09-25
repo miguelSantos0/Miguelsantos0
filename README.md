@@ -1,9 +1,6 @@
-## Hi! I'm Miguel de Oliveira Santos
-
-<br>
-
-<p> > 📚 Currently learning: HTML, CSS, JS, Boostrap, GIT, REACT, GIT, SQL, PHP, JAVA, NODEJS, EJS, ELECTRON</p>   
-<p> > ✍ Interested: PYTHON, NEXTJS, TAILWIND, SASS, REACT NATIVE</p>
+- 📚 Currently learning = **HTML, CSS, JS, BOOTSTRAP, REACTJS, SQL, PHP, JAVA, NODEJS, EJS, ELECTRON**    
+- ✍ Interested = **PYTHON, NEXTJS, TAILWIND, SASS, REACT NATIVE**
+- 🛠️Tools = **VSCode, Git, Github, Figma**
 <HR> 
    <br>
    <div>
