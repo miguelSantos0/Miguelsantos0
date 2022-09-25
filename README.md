@@ -1,4 +1,4 @@
-- 📚 Currently learning = **HTML, CSS, JS, BOOTSTRAP, REACTJS, SQL, PHP, JAVA, NODEJS, EJS, ELECTRON, NPM**    
+- 📚 Currently learning = **HTML, CSS, JS, REACTJS, NODEJS, SQL, ELECTRON, NPM, PHP, JAVA, EJS, BOOTSTRAP**    
 - ✍ Interested = **TAILWIND, SASS, REACT NATIVE**
 - 🛠️Tools = **VSCode, Git, Github, Figma**
 <HR> 
