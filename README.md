@@ -1,4 +1,4 @@
-# Hi, My name is Miguel!
+# Hi! I am Miguel!
 - 📚 Skills: **HTML, CSS, REACTJS, REACT NATIVE, NODEJS, TYPESCRIPT, SQL, EXPRESS**    
 - ✍ Interested: **TAILWIND, SASS**
 - 🛠️Tools: **VSCode, EXPO, Git, Github, Figma, Hoppscoth, Insomnia**
