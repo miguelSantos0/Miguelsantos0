@@ -1,5 +1,5 @@
 # Hi! I am Miguel!
-- 📚 Skills: **HTML, CSS, TAILWIND, REACTJS, NODEJS, TYPESCRIPT, SQL, EXPRESS**    
+- 📚 Skills: **HTML, CSS, TAILWIND, REACTJS, NEXTJS, NODEJS, TYPESCRIPT, SQL, EXPRESS**    
 - 🛠️Tools: **VSCode, Git, Figma, Insomnia**
 <HR> 
    <br>
