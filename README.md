@@ -4,7 +4,7 @@
 
 &nbsp;
 
-#### - 💻 Desenvolvedor Full Stack.
+#### - 💻 Desenvolvedor Back end.
 #### - 📚 Estudando TypeScript | JavaScript | Node.Js | React
 #### - ✅ Formado em Desenvolvimento de Sistemas
 #### - 🎒 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas.
