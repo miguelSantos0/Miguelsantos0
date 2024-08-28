@@ -5,7 +5,7 @@
 &nbsp;
 
 #### - 💻 Desenvolvedor Back end.
-#### - 📚 Estudando TypeScript | Java | .NET
+#### - 📚 Estudando Angular | Java | .NET
 #### - ✅ Formado em Desenvolvimento de Sistemas
 #### - 🎒 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas.
 
